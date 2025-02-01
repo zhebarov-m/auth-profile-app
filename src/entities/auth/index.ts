@@ -1,0 +1,1 @@
+export { AuthUserModel } from './model';
